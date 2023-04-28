@@ -1,0 +1,5 @@
+0,AFRICA                   ,0
+1,AMERICA                  ,1
+4,MIDDLE EAST              ,4
+3,EUROPE                   ,3
+2,ASIA                     ,2
